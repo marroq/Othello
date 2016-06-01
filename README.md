@@ -1,4 +1,4 @@
 # Othello
 Juego Othello hecho en Scheme
-Computer Science 2
+Ciencias de la Computación II
 Universidad Galileo
